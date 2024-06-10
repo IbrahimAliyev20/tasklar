@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: inline-block;
+    justify-content: center;
+
+}
+body{
+    background-color: azure;
+   
+}
+div{
+    display: inline-block;
+}
+form{
+    display: inline-block;
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin: 100px 30px 0 170px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: rgba(91, 91, 91, 0.3);
+    box-shadow: 10px 10px 10px  rgba(0, 0, 0,0.2);
+} 
+
+
+.araba{
+    width:100%;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+.p1{
+    margin-top: 10px;
+    margin-left: 17px;
+    padding: 4px;
+    font: 0.9em arial,sans-serif;
+    background-color: rgb(152, 212, 229);
+    color: rgba(0, 0, 0,0.5);
+    border-radius: 5px;
+    
+}
+
+.whyis{
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 1.15rem;
+    
+}
+.portre {
+    width: 40px;
+    border-radius: 200px;
+    margin-top: 30px;
+    margin-left: 20px;
+    
+        
+}
+
+.p2{
+    margin-left: 15px;
+    
+    color: rgba(0, 0, 0,0.7);
+}
+.ago{
+    margin-left: 80px;
+    color: rgb(0, 0, 0,0.4);
+    
+}
+.form2 .p1{
+    background-color:#351f99;
+    color: rgba(240, 248, 255,0.9);
+    
+}
+.form3 .p1{
+    background-color: yellowgreen;
+    color: beige;
+}
+.form3{
+    width: 250px;
+    height: 300;
+}

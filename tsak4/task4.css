@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+body{
+    background-color: #8d44ad;
+}
+.esas{
+    margin-left: 250px;
+    
+}
+.conteinr{
+    width: 250px;
+    height: 370px;
+    margin: 100px 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
+.portre1{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius:100%;
+    margin: 20px 65px;
+    border-color: blueviolet;
+    border-style: double;
+}
+.ad{
+    margin-left: 75px;
+    color: #8d44ad;
+}
+.star{
+    margin-left: 75px;
+    color: #8d44ad;
+}
+.metn{
+    margin: 12px;
+    font-size: 0.8rem
+}
+button{
+    width: 100px;
+    border-radius: 2px;
+    border-color: #8d44ad;
+    
+}
+.buton1{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+    color: #8d44ad;
+    
+}
+.buton2{
+    background-color: #8d44ad;
+    color: white;
+    
+}
+.portre2{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius:100%;
+    margin: 20px 65px;
+    border-color: blueviolet;
+    border-style: double;
+    
+}
+.portre3{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius:100%;
+    margin: 20px 65px;
+    border-color: blueviolet;
+    border-style: double;
+}
